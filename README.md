@@ -3,7 +3,7 @@
 <h3 align="center">⭐software developer and designer⭐</h3></div>
 
 - ✨ see my [portfolio](https://judeottilie.vercel.app/)
-- ✨ stack: `jsx`, `ts`, `html`, `css`, `cs`
+- ✨ stack: `react`, `javascript`, `html`, `css`, `c#`, `.NET`
 - ✨ find me on [LinkedIn](https://www.linkedin.com/in/judeottilie-tech/)
   
 <img src="./bnuy-bunny-sleep.png" align="center"/><img src="./IMG_2246.jpg" width="34%" height="34%" align="center"/>
