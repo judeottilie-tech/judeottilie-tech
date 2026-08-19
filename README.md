@@ -6,4 +6,4 @@
 - ✨ stack: `jsx`, `ts`, `html`, `css`, `cs`
 - ✨ find me on [LinkedIn](https://www.linkedin.com/in/judeottilie-tech/)
   
-<img src="./bnuy-bunny-sleep.png" align="center"/><img src="./IMG_2246.jpg" width="30%" height="30%" align="center"/>
+<img src="./bnuy-bunny-sleep.png" align="center"/><img src="./IMG_2246.jpg" width="32%" height="32%" align="center"/>
