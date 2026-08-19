@@ -8,4 +8,4 @@
 - ✨ stack: `react`, `javascript`, `html`, `css`, `c#`, `.NET`
 - ✨ find me on [LinkedIn](https://www.linkedin.com/in/judeottilie-tech/)
   
-<img src="./bnuy-bunny-sleep.png" width="60%" height="60%" align="center"/><img src="./IMG_2246.jpg" width="34.29%" height="34.29%" align="center"/>
+<img src="./bnuy-bunny-sleep.png" width="60%" height="60%" align="center"/><img src="./IMG_2246.jpg" width="34.30%" height="34.30%" align="center"/>
