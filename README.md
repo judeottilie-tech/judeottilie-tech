@@ -1,4 +1,4 @@
-<div align="center">✨<img src="./2810026wftln79lip.gif" align="center" width="28%" height="28%"/>✨
+<div align="center">✨<img src="./2810026wftln79lip.gif" align="center" width="75%" height="75%"/>✨
 <h1 align="center"><img src="./pet.gif.gif"/> hey! i'm jude <img src="./pet.gif.gif"/></h1>
 <h3 align="center">⭐software developer and graphic designer⭐</h3></div>
 
