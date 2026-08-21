@@ -4,10 +4,11 @@
 
 <h4 align="center"><i>creating applications with a focus on accessibility and user experience</i></h4>
 
+<img src="./IMG_2246.jpg" width="34.34%" height="34.34%" align="center"/>
+
 - ✨ see my [portfolio](https://judeottilie.vercel.app/)
 - ✨ stack: `react`, `javascript`, `html`, `css`, `c#`, `.NET`
 - ✨ find me on [LinkedIn](https://www.linkedin.com/in/judeottilie-tech/)
   
 <img src="./Searching for my first dev role! (2).png" width="75%" height="75%" align="center"/>
 
-<h4 align="center"><i>THANKS FOR VISITING!</i></h4><img src="./IMG_2246.jpg" width="34.34%" height="34.34%" align="center"/>
