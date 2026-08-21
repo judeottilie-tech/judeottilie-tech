@@ -9,8 +9,21 @@
 - ✨ see my [portfolio](https://judeottilie.vercel.app/)
 - ✨ stack: `react`, `javascript`, `html`, `css`, `c#`, `.NET`
 - ✨ find me on [LinkedIn](https://www.linkedin.com/in/judeottilie-tech/)
-  <br />
-  <br />
-  
-<img src="./Searching for my first dev role! (2).png" width="75%" height="75%" align="center"/>
+
+
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p align="center">
+  <img src="./Searching for my first dev role! (2).png" width="75%" height="75%" />
+</p>
 
