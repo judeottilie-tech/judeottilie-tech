@@ -2,7 +2,7 @@
 <h1 align="center"><img src="./pet.gif.gif"/> hey! i'm jude <img src="./pet.gif.gif"/></h1>
 <h3 align="center">⭐software developer and graphic designer</h3></div>
 
-<h4 align="center"><i>creating applications with a focus on accessibility and user experience</i></h4>
+<h4 align="center"><i>creating applications with a focus on accessibility and user experience⭐</i></h4>
 
 <img src="./IMG_2246.jpg" width="25%" height="25%" align="right"/>
 
