@@ -8,6 +8,7 @@
 
 - ✨ see my [portfolio](https://judeottilie.vercel.app/)
 - ✨ stack: `react`, `javascript`, `html`, `css`, `c#`, `.NET`
+- ✨ design: `adobe`, `canva`, `figma`
 - ✨ find me on [LinkedIn](https://www.linkedin.com/in/judeottilie-tech/)
 
 
